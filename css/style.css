@@ -1,0 +1,45 @@
+body {
+    line-height: 150%;
+    margin: 0 auto;
+    max-width: 1024px;
+    padding: 20px;
+}
+
+h1 {
+    padding-top: 50px;
+    text-align: left;
+
+
+}
+
+.contacts {
+    float: left;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.contacts {
+    margin: 0px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+.contacts li {
+    white-space: pre;
+}
+
+.summary {
+    padding: 30px;
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 17px;
+}
+
+code {
+    font-size: 15px;
+}
